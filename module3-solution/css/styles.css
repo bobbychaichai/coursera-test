@@ -88,7 +88,7 @@ body {
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
   /* Header */
-  /*.navbar-brand {
+  .navbar-brand {
     padding-top: 10px;
     height: 80px;
   }
@@ -126,7 +126,7 @@ body {
     font-size: .7em;
     letter-spacing: .1em;
     text-transform: uppercase;
-  } */
+  } 
   /* End Header */
 
 }
