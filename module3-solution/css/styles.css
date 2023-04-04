@@ -67,6 +67,11 @@ body {
   margin: 0 0 10px;
 }
 
+.menu-item-details {
+  font-size: .9em;
+  font-style: italic;
+}
+
 p {
   border: 3px solid black;
   background-color: #808080;
