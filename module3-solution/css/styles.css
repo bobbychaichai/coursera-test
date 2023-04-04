@@ -66,6 +66,7 @@ body {
 
 .item-title{
   text-align: center;
+  margin: 0 100px 10px 100px;
   font-style: italic;
 }
 
