@@ -62,7 +62,7 @@ body {
   margin-top: -30px;
 }
 
-p {
+/* p {
   border: 3px solid black;
   background-color: #808080;
   width: 90%;
@@ -72,7 +72,7 @@ p {
   font-family: Helvetica;
   color: black;
   padding: 25px;
-}
+} */
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
