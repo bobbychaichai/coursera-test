@@ -77,7 +77,7 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: black;
-  position: relative;
+  position: absolute;
   padding: 25px;
 }
 
