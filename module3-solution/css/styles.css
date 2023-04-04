@@ -54,9 +54,21 @@ body {
 }
 
 .menu-item-title {
+  border: 3px solid black;
+  background-color: #808080;
+  width: 90%;
+  height: 350px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: black;
+  padding: 25px;
+  
   text-align: center;
   position: relative;
   margin: 0 0 10px;
+  
+  
 }
 
 .menu-item-details {
@@ -69,7 +81,7 @@ body {
   font-style: italic;
 }
 
-p {
+/* p {
   border: 3px solid black;
   background-color: #808080;
   width: 90%;
@@ -79,7 +91,7 @@ p {
   font-family: Helvetica;
   color: black;
   padding: 25px;
-}
+} */
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
