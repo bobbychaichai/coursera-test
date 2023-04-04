@@ -64,9 +64,13 @@ body {
   font-style: italic;
 }
 
-.item-title{
- /* text-align: center; */
-  font-size: 1.5em;
+span{
+  
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  /*text-align: center;
+  font-size: 1.5em;*/
 }
 
 p {
