@@ -119,17 +119,10 @@ body {
 
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
-  
-  position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-    float: left;
-    width: 100%;
-  
+    
   /* Header */
   .navbar-brand {
-    padding-top: 10px;
+    padding-top: 20px;
     height: 50px;
   }
   .navbar-brand h1 { /* Restaurant name */
