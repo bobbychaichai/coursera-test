@@ -24,7 +24,7 @@ body {
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 100;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -75,7 +75,7 @@ body {
 }
 
 #menu-categories-title{
-  margin-top: 300px;
+  margin-top: 50px;
   padding: 10px;
 }
 
