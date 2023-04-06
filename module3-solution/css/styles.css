@@ -10,7 +10,6 @@ body {
   background-color: #f6b319;
   border-radius: 0;
   border: 0;
-  padding-bottom: 25px;
 }
 
 .navbar-brand {
@@ -85,7 +84,7 @@ body {
   margin-bottom: 30px;
   font-family: Helvetica;
   color: white;
-  /* padding: 25px; */
+  padding: 25px;
 }
 
 /********** Large devices only **********/
