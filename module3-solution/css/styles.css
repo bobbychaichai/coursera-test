@@ -80,7 +80,7 @@ body {
   padding: 10px;
 }
 
-#menu-categories-title + div {
+#menu-categories-title{
   margin-bottom: 50px;
 }  
   
