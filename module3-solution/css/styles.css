@@ -162,6 +162,7 @@ body {
   /* End Header */
 
   .col-xxs-12 {
+    clear: both;
     position: relative;
     min-height: 1px;
     padding-right: 15px;
