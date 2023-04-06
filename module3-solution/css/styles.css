@@ -80,6 +80,10 @@ body {
   padding: 10px;
 }
 
+#menu-categories-title + div {
+  margin-bottom: 50px;
+}  
+  
 .section {
   border: 3px solid black;
   background-color: #808080;
@@ -162,7 +166,6 @@ body {
   /* End Header */
 
   .col-xxs-12 {
-    clear: both;
     position: relative;
     min-height: 1px;
     padding-right: 15px;
