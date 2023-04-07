@@ -155,12 +155,19 @@ body {
   } 
   /* End Header */
 
-  .col-xxs-12 {
-    position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-    float: left;
-    width: 100%;
+.navbar-collapse {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    z-index: 1031;
+  }
+
+  .navbar-collapse.in {
+    overflow-y: auto;
+  }
+
+  .navbar-fixed-top {
+    position: absolute;
   }
 }
