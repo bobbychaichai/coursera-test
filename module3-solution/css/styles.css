@@ -154,6 +154,14 @@ body {
     text-transform: uppercase;
   } 
   /* End Header */
+  
+  .col-xxs-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    width: 100%;
 
 .navbar-collapse {
     position: absolute;
