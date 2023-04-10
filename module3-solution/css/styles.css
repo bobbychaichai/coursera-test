@@ -137,9 +137,6 @@ body {
   #collapsable-nav a span { /* Collapsed nav menu glyph */
     font-size: 1em;
     margin-right: 5px;
-    #menu-categories-title{
-      padding-top: 170px;
-    }
   }
   
 
@@ -162,9 +159,9 @@ body {
   } 
   /* End Header */
   
-  /* #menu-categories-title{
+  #menu-categories-title{
     padding-top: 170px;
-  }*/
+  }
   
   .col-xxs-12 {
     position: relative;
