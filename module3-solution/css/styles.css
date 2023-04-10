@@ -159,10 +159,6 @@ body {
   } 
   /* End Header */
   
-    .container {
-  padding-top: 70px; /* set the padding value according to your navbar height */
-  }
-  
   .col-xxs-12 {
     position: relative;
     min-height: 1px;
