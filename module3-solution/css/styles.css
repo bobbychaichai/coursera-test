@@ -137,8 +137,8 @@ body {
   #collapsable-nav a span { /* Collapsed nav menu glyph */
     font-size: 1em;
     margin-right: 5px;
-    body {
-      padding-top: 170px; /* set the padding value according to your navbar height */
+    #menu-categories-title{
+      padding-top: 170px;
     }
   }
   
