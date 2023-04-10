@@ -160,15 +160,11 @@ body {
   /* End Header */
   
   .col-xxs-12 {
+    padding-top: 170px;
     position: relative;
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
     float: left;
     width: 100%;
-
-  body {
-    padding-top: 170px;
-  }  
-    
 }
