@@ -52,7 +52,6 @@ body {
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -35px;
-  padding-top: 170px;
 }
 
 .menu-item-title { 
@@ -138,6 +137,7 @@ body {
   #collapsable-nav a span { /* Collapsed nav menu glyph */
     font-size: 1em;
     margin-right: 5px;
+    padding-top: 170px;
   }
   
 
