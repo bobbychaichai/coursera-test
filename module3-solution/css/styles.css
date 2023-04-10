@@ -159,8 +159,11 @@ body {
   } 
   /* End Header */
   
+  .menu-categories-title{
+    padding-top: 70px;
+  }
+  
   .col-xxs-12 {
-    padding-top: 170px;
     position: relative;
     min-height: 1px;
     padding-right: 15px;
