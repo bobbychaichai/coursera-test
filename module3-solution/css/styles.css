@@ -115,6 +115,11 @@ body {
     padding-top: 120px;
     height: 50px;
   }
+  
+  .container {
+  padding-top: 170px; /* set the padding value according to your navbar height */
+}
+
 }
 
 /********** Extra small devices only **********/
