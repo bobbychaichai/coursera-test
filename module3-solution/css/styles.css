@@ -121,9 +121,6 @@ body {
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
   
-  .container {
-  padding-top: 70px; /* set the padding value according to your navbar height */
-  }
   /* Header */
   .navbar-brand {
     padding-top: 20px;
@@ -152,6 +149,8 @@ body {
     background-color: #f6b319;
     color: #951c49;
   }
+ 
+  
   #xs-deliver {
     margin-top: 5px;
     font-size: .7em;
@@ -159,6 +158,10 @@ body {
     text-transform: uppercase;
   } 
   /* End Header */
+  
+    .container {
+  padding-top: 70px; /* set the padding value according to your navbar height */
+  }
   
   .col-xxs-12 {
     position: relative;
