@@ -9,7 +9,7 @@
 // var helloSpeaker =
   
 var helloSpeaker = {};
-helloSpeaker.name = name;
+helloSpeaker.name = names;
 
 // DO NOT attach the speakWord variable to the 'helloSpeaker' object.
 var speakWord = "Hello";
